@@ -1,0 +1,8 @@
+{
+    "name": "Test,PostUser",
+    "phone_number": 9454389576,
+    "location": "Test locationn",
+    "time_zone": "EST",
+    "visa_status":"H4",
+    "linkedin_url": "www.linkedin.com/in/testuser"
+}
